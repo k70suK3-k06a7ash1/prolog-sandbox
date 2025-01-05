@@ -1,1 +1,5 @@
-hi :- write('Hello World!').
+% hello_world.pl
+
+main :-
+    write('Hello, World!'),
+    nl.
